@@ -1327,5 +1327,43 @@
         ]
       }
     ]
+  },
+  {
+    "model": "5-series",
+    "text": "5 Series",
+    "years": [
+      {
+        "value": "2017-2023",
+        "text": "2017-2023",
+        "generations": [
+          {
+            "value": "g30",
+            "text": "G30",
+            "activations": [
+              {
+                "id": 66,
+                "title": {
+                  "en": "Activate Trunk Opening from Key",
+                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
+                  "he": "הפעלת פתיחת תא מטען מהמפתח"
+                },
+                "description": {
+                  "en": "Ability to open the trunk by double-pressing the unlock button",
+                  "ar": "إمكانية فتح صندوق الأمتعة عن طريق الضغط المزدوج على زر فتح الأبواب",
+                  "he": "אפשרות לפתוח את תא המטען בלחיצה כפולה על כפתור פתיחת הדלתות"
+                },
+                "category": {
+                  "en": "Convenience",
+                  "ar": "الراحة",
+                  "he": "נוחות"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
