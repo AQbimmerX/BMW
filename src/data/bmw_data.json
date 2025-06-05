@@ -1381,6 +1381,32 @@
                 "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
               }
             ]
+          },
+          {
+            "value": "g31",
+            "text": "G31",
+            "activations": [
+              {
+                "id": 68,
+                "title": {
+                  "en": "Activate Individual Sport Mode",
+                  "ar": "تفعيل وضع الرياضة الفردي",
+                  "he": "הפעלת מצב ספורט אישי"
+                },
+                "description": {
+                  "en": "Enable customization of the Sport driving mode to your personal preferences",
+                  "ar": "تفعيل إمكانية تخصيص وضع القيادة الرياضية حسب تفضيلاتك الشخصية",
+                  "he": "הפעלת האפשרות להתאים אישית את מצב הנהיגה הספורטיבי להעדפותיך האישיות"
+                },
+                "category": {
+                  "en": "Driving Mode",
+                  "ar": "وضع القيادة",
+                  "he": "מצב נהיגה"
+                },
+                "price": "150",
+                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
+              }
+            ]
           }
         ]
       }
