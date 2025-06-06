@@ -37,7 +37,7 @@
                 "category": {
                   "ar": "وضع القيادة",
                   "en": "Driving Mode",
-                  "he": "מצב נהיגה"
+                  "he": "מצב נהيגה"
                 },
                 "price": "150",
                 "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
@@ -72,7 +72,7 @@
                 "description": {
                   "ar": "إمكانية فتح صندوق الأمتعة عن طريق الضغط المزدوج على زر فتح الأبواب",
                   "en": "Ability to open the trunk by double-pressing the unlock button",
-                  "he": "אפשרות לפתוח את תא המטען בלחיצה כפולה על כפתור פתיחת הדלתות"
+                  "he": "אפשרות לפתוח את תא המטען בלחיצה כפולה على כפתור פתיחת הדלתות"
                 },
                 "category": {
                   "ar": "الراحة",
@@ -92,7 +92,7 @@
                 "description": {
                   "ar": "إضاءة المصابيح بنمط خاص عند فتح السيارة",
                   "en": "Lights illuminate in a special pattern when the car is unlocked",
-                  "he": "הפנסים נדלקים בתבנית מיוחדת עם פתיחת נעילת הרכב"
+                  "he": "הפנסים נדלקים בתבנית מיוחדة עם פתיחת נעילת הרכב"
                 },
                 "category": {
                   "ar": "الإضاءة",
@@ -232,7 +232,7 @@
                 "description": {
                   "ar": "عرض ضغط ودرجة حرارة الإطارات في شاشة النظام.",
                   "en": "Display tire pressure and temperature on the system screen.",
-                  "he": "הצגת לחץ וטמפרטורת הצמיגים במסך המערכת."
+                  "he": "הצגת לחץ وטמפרטורת הצמיגים במסך המערכת."
                 },
                 "category": {
                   "ar": "العرض",
@@ -312,7 +312,7 @@
                 "description": {
                   "ar": "تفعيل وضع Sport+ للقيادة الرياضية المعززة.",
                   "en": "Activate Sport+ mode for enhanced sporty driving.",
-                  "he": "הפעלת מצב Sport+ לנהיגה ספורטיבית משופרת."
+                  "he": "הפעלת מצב Sport+ לנהيגה ספורטיבית משופרת."
                 },
                 "category": {
                   "ar": "وضع القيادة",
@@ -527,7 +527,7 @@
                 "title": {
                   "ar": "عرض مساعد القيادة",
                   "en": "Assisted Driving View",
-                  "he": "תצוגת סיוע בנהיגה"
+                  "he": "תצוגת סיוع בנהיגה"
                 },
                 "description": {
                   "ar": "تفعيل عرض مساعدة القيادة في الشاشة.",
@@ -692,7 +692,7 @@
                 "description": {
                   "ar": "تغيير لون الإضاءة المحيطة من البرونزي.",
                   "en": "Change the ambient lighting color from bronze.",
-                  "he": "שינוי צבע תאורת האווירה מברונזה."
+                  "he": "שינוי צבע تאورتا الأجواء من البرونز."
                 },
                 "category": {
                   "ar": "الإضاءة",
@@ -712,7 +712,7 @@
                 "description": {
                   "ar": "تغيير لون الإضاءة المحيطة من البرونزي.",
                   "en": "Change the ambient lighting color from bronze.",
-                  "he": "שינוי צבע תאורת האווירה מברונזה."
+                  "he": "שינוי צבע תאורת الأجواء من البرونز."
                 },
                 "category": {
                   "ar": "الإضاءة",
@@ -857,7 +857,7 @@
                 "category": {
                   "ar": "وضع القيادة",
                   "en": "Driving Mode",
-                  "he": "מצב נהיגה"
+                  "he": "מצב נהيגה"
                 },
                 "price": "130",
                 "image_url": "https://storage.obdeleven.com/parse/c4e5ef27ac26d52bc4fc01c0be79da6e_oca_picture.jpg"
@@ -972,7 +972,7 @@
                 "description": {
                   "ar": "اختبار مروحة المحرك.",
                   "en": "Test the engine fan.",
-                  "he": "בדיקת מאוורר המנוע."
+                  "he": "بديقت المروحة المحرك."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -987,7 +987,7 @@
                 "title": {
                   "ar": "اختبار البوق",
                   "en": "Horn Test",
-                  "he": "בדיקת צופר"
+                  "he": "بديقت البوق"
                 },
                 "description": {
                   "ar": "اختبار البوق.",
@@ -1007,12 +1007,12 @@
                 "title": {
                   "ar": "اختبار أضواء الضباب الخلفية",
                   "en": "Rear Fog Lights Test",
-                  "he": "בדיקת פנסי ערפל אחוריים"
+                  "he": "بديقت فوانيس الضباب الخلفية"
                 },
                 "description": {
                   "ar": "اختبار أضواء الضباب الخلفية.",
                   "en": "Test the rear fog lights.",
-                  "he": "בדיקת פנסי הערפל האחוריים."
+                  "he": "بديقت أضواء الضباب الخلفية."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1027,12 +1027,12 @@
                 "title": {
                   "ar": "فحص المصابيح الأمامية",
                   "en": "Headlights Check",
-                  "he": "בדיקת פנסים ראשיים"
+                  "he": "فحص المصابيح الأمامية"
                 },
                 "description": {
                   "ar": "فحص المصابيح الأمامية.",
                   "en": "Check the headlights.",
-                  "he": "בדיקת הפנסים הראשיים."
+                  "he": "פנסים קדמיים."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1047,12 +1047,12 @@
                 "title": {
                   "ar": "اختبار أضواء لوحة العدادات",
                   "en": "Instrument Cluster Lights Test",
-                  "he": "בדיקת תאורת לוח מחוונים"
+                  "he": "بديقت أضواء لوحة العدادات"
                 },
                 "description": {
                   "ar": "اختبار أضواء لوحة العدادات.",
                   "en": "Test the instrument cluster lights.",
-                  "he": "בדיקת תאורת לוח המחוונים."
+                  "he": "بديقت أضواء لوحة العدادات."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1067,12 +1067,12 @@
                 "title": {
                   "ar": "فحص نظام الاتصال الطارئ SOS",
                   "en": "SOS Emergency Call System Check",
-                  "he": "בדיקת מערכת קריאת חירום SOS"
+                  "he": "فحص نظام الاتصال الطارئ SOS"
                 },
                 "description": {
                   "ar": "فحص نظام الاتصال الطارئ SOS.",
                   "en": "Check the SOS emergency call system.",
-                  "he": "בדיקת מערכת קריאת החירום SOS."
+                  "he": "فحص نظام الاتصال الطارئ SOS."
                 },
                 "category": {
                   "ar": "السلامة",
@@ -1087,12 +1087,12 @@
                 "title": {
                   "ar": "إعادة ضبط سائل الفرامل",
                   "en": "Brake Fluid Reset",
-                  "he": "איפוס נוזל בלמים"
+                  "he": "إعادة ضبط سائل الفرامل"
                 },
                 "description": {
                   "ar": "إعادة ضبط سائل الفرامل.",
                   "en": "Reset the brake fluid.",
-                  "he": "איפוס נוזל הבלמים."
+                  "he": "إعادة ضبط سائل الفرامل."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1107,12 +1107,12 @@
                 "title": {
                   "ar": "إعادة ضبط زيت المحرك",
                   "en": "Engine Oil Reset",
-                  "he": "איפוס שמן מנוע"
+                  "he": "إعادة ضبط زيت المحرك"
                 },
                 "description": {
                   "ar": "إعادة ضبط زيت المحرك.",
                   "en": "Reset the engine oil.",
-                  "he": "איפוס שמן המנוע."
+                  "he": "إعادة ضبط زيت المحرك."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1127,12 +1127,12 @@
                 "title": {
                   "ar": "إعادة ضبط تيل الفرامل الأمامية",
                   "en": "Front Brake Pads Reset",
-                  "he": "איפוס רפידות בלם קדמיות"
+                  "he": "إعادة ضبط تيل الفرامل الأمامية"
                 },
                 "description": {
                   "ar": "إعادة ضبط تيل الفرامل الأمامية.",
                   "en": "Reset the front brake pads.",
-                  "he": "איפוס רפידות הבלם הקדמיות."
+                  "he": "إعادة ضبط تيل الفرامل الأمامية."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1147,12 +1147,12 @@
                 "title": {
                   "ar": "إعادة ضبط تيل الفرامل الخلفية",
                   "en": "Rear Brake Pads Reset",
-                  "he": "איפוס רפידות בלם אחוריות"
+                  "he": "إعادة ضبط تيل الفرامل الخلفية"
                 },
                 "description": {
                   "ar": "إعادة ضبط تيل الفرامل الخلفية.",
                   "en": "Reset the rear brake pads.",
-                  "he": "איפוס רפידות הבלם האחוריות."
+                  "he": "إعادة ضبط تيل الفرامل الخلفية."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1167,12 +1167,12 @@
                 "title": {
                   "ar": "إعادة ضبط فحص السيارة",
                   "en": "Vehicle Check Reset",
-                  "he": "איפוס בדיקת רכב"
+                  "he": "إعادة ضبط فحص السيارة"
                 },
                 "description": {
                   "ar": "إعادة ضبط فحص السيارة.",
                   "en": "Reset the vehicle check.",
-                  "he": "איפוס בדיקת הרכב."
+                  "he": "إعادة ضبط فحص السيارة."
                 },
                 "category": {
                   "ar": "الصيانة",
@@ -1187,17 +1187,17 @@
                 "title": {
                   "ar": "شاشات العرض الرياضية",
                   "en": "Sport Displays",
-                  "he": "תצוגות ספורט"
+                  "he": "شاشات العرض الرياضية"
                 },
                 "description": {
                   "ar": "تفعيل شاشات العرض الرياضية.",
                   "en": "Activate the sport displays.",
-                  "he": "הפעלת תצוגות הספורט."
+                  "he": "تفعيل شاشات العرض الرياضية."
                 },
                 "category": {
                   "ar": "العرض",
                   "en": "Display",
-                  "he": "תצוגה"
+                  "he": "تצוגה"
                 },
                 "price": "110",
                 "image_url": "https://storage.obdeleven.com/parse/503c60d9d59f49ee5fe65487b9e80038_oca_picture.jpg"
@@ -1207,12 +1207,12 @@
                 "title": {
                   "ar": "فيديو أثناء القيادة",
                   "en": "Video in Motion",
-                  "he": "וידאו תוך כדי נסיעה"
+                  "he": "فيديو أثناء القيادة"
                 },
                 "description": {
                   "ar": "تفعيل تشغيل الفيديو أثناء القيادة.",
                   "en": "Enable video playback while driving.",
-                  "he": "הפעלת ניגון וידאו תוך כדי נהיגה."
+                  "he": "تفعيل تشغيل الفيديو أثناء القيادة."
                 },
                 "category": {
                   "ar": "الترفيه",
@@ -1227,17 +1227,17 @@
                 "title": {
                   "ar": "عرض وصلة الجر",
                   "en": "Tow Hitch Display",
-                  "he": "תצוגת גרירה"
+                  "he": "عرض وصلة الجر"
                 },
                 "description": {
                   "ar": "تفعيل عرض معلومات وصلة الجر.",
                   "en": "Activate the tow hitch information display.",
-                  "he": "הפעלת תצוגת מידע על וו הגרירה."
+                  "he": "تفعيل عرض معلومات وصلة الجر."
                 },
                 "category": {
                   "ar": "العرض",
                   "en": "Display",
-                  "he": "תצוגה"
+                  "he": "تצוגה"
                 },
                 "price": "90",
                 "image_url": "https://storage.obdeleven.com/parse/4aeff12b62f3fbace5e8613285232f68_oca_picture.jpg"
@@ -1247,12 +1247,12 @@
                 "title": {
                   "ar": "وظائف الراحة عبر Comfort Access",
                   "en": "Comfort Operation via CA",
-                  "he": "פעולות נוחות דרך Comfort Access"
+                  "he": "وظائف الراحة عبر Comfort Access"
                 },
                 "description": {
                   "ar": "تفعيل وظائف الراحة عبر نظام الوصول المريح (Comfort Access).",
                   "en": "Activate comfort functions via the Comfort Access system.",
-                  "he": "הפעלת פונקציות נוחות באמצעות מערכת Comfort Access."
+                  "he": "تفعيل وظائف الراحة عبر نظام الوصول المريح (Comfort Access)."
                 },
                 "category": {
                   "ar": "الراحة",
@@ -1267,17 +1267,17 @@
                 "title": {
                   "ar": "لون شاشات العرض الرياضية",
                   "en": "Sport Displays Color",
-                  "he": "צבע תצוגות ספורט"
+                  "he": "لون شاشات العرض الرياضية"
                 },
                 "description": {
                   "ar": "تغيير لون شاشات العرض الرياضية.",
                   "en": "Change the color of the sport displays.",
-                  "he": "שינוי צבע תצוגות הספורט."
+                  "he": "تغيير لون شاشات العرض الرياضية."
                 },
                 "category": {
                   "ar": "العرض",
                   "en": "Display",
-                  "he": "תצוגה"
+                  "he": "تצוגה"
                 },
                 "price": "80",
                 "image_url": "https://storage.obdeleven.com/parse/45f535c8fd75cdbea9656621b9a3a7c9_oca_picture.jpg"
@@ -1287,12 +1287,12 @@
                 "title": {
                   "ar": "الصوت الأقصى",
                   "en": "Maximum Volume",
-                  "he": "עוצמת שמע מקסימלית"
+                  "he": "الصوت الأقصى"
                 },
                 "description": {
                   "ar": "تعديل مستوى الصوت الأقصى.",
                   "en": "Adjust the maximum volume level.",
-                  "he": "כוונון רמת עוצמת שמע מקסימלית."
+                  "he": "تعديل مستوى الصوت الأقصى."
                 },
                 "category": {
                   "ar": "الصوت",
@@ -1307,12 +1307,12 @@
                 "title": {
                   "ar": "نمط قائمة NBT EVO",
                   "en": "NBT EVO Menu Style",
-                  "he": "סגנון תפריט NBT EVO"
+                  "he": "نمط قائمة NBT EVO"
                 },
                 "description": {
                   "ar": "تغيير نمط قائمة NBT EVO.",
                   "en": "Change the NBT EVO menu style.",
-                  "he": "שינוי סגנון תפריט NBT EVO."
+                  "he": "تغيير نمط قائمة NBT EVO."
                 },
                 "category": {
                   "ar": "العرض",
@@ -1345,424 +1345,11 @@
     ]
   },
   {
-    "model": "5-series",
-    "text": "5 Series",
-    "years": [
-      {
-        "value": "2017-2023",
-        "text": "2017-2023",
-        "generations": [
-          {
-            "value": "g30",
-            "text": "G30",
-            "activations": [
-              {
-                "id": 66,
-                "title": {
-                  "en": "Activate Trunk Opening from Key",
-                  "ar": "تفعيل فتح صندوق الأمتعة من المفتاح",
-                  "he": "הפעלת פתיחת תא מטען מהמפתח"
-                },
-                "description": {
-                  "en": "Ability to open the trunk by double-pressing the unlock button",
-                  "ar": "إمكانية فتح صندوق الأمتعة عن طريق الضغط المزدوج على زر فتح الأبواب",
-                  "he": "אפשרות לפתוח את תא המטען בלחיצה כפולה על כפתור פתיחת הדלתות"
-                },
-                "category": {
-                  "en": "Convenience",
-                  "ar": "الراحة",
-                  "he": "נוחות"
-                },
-                "price": "100",
-                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
-              },
-              {
-                "id": 67,
-                "title": {
-                  "en": "Activate Individual Sport Mode",
-                  "ar": "تفعيل وضع الرياضة الفردي",
-                  "he": "הפעלת מצב ספורט אישי"
-                },
-                "description": {
-                  "en": "Enable customization of the Sport driving mode to your personal preferences",
-                  "ar": "تفعيل إمكانية تخصيص وضع القيادة الرياضية حسب تفضيلاتك الشخصية",
-                  "he": "הפעלת האפשרות להתאים אישית את מצב הנהיגה הספורטיבי להעדפותיך האישיות"
-                },
-                "category": {
-                  "en": "Driving Mode",
-                  "ar": "وضع القيادة",
-                  "he": "מצב נהיגה"
-                },
-                "price": "150",
-                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
-              },
-              {
-                "id": 69,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          },
-          {
-            "value": "g31",
-            "text": "G31",
-            "activations": [
-              {
-                "id": 68,
-                "title": {
-                  "en": "Activate Individual Sport Mode",
-                  "ar": "تفعيل وضع الرياضة الفردي",
-                  "he": "הפעלת מצב ספורט אישי"
-                },
-                "description": {
-                  "en": "Enable customization of the Sport driving mode to your personal preferences",
-                  "ar": "تفعيل إمكانية تخصيص وضع القيادة الرياضية حسب تفضيلاتك الشخصية",
-                  "he": "הפעלת האפשרות להתאים אישית את מצב הנהיגה הספורטיבי להעדפותיך האישיות"
-                },
-                "category": {
-                  "en": "Driving Mode",
-                  "ar": "وضع القيادة",
-                  "he": "מצב נהיגה"
-                },
-                "price": "150",
-                "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
-              },
-              {
-                "id": 70,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "value": "2003-2010",
-        "text": "2003-2010",
-        "generations": [
-          {
-            "value": "e60",
-            "text": "E60",
-            "activations": []
-          },
-          {
-            "value": "e61",
-            "text": "E61",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2010-2016",
-        "text": "2010-2016",
-        "generations": [
-          {
-            "value": "f10",
-            "text": "F10",
-            "activations": []
-          },
-          {
-            "value": "f11",
-            "text": "F11",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2023-present",
-        "text": "2023-Present",
-        "generations": [
-          {
-            "value": "g60",
-            "text": "G60",
-            "activations": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "model": "3-series",
-    "text": "3 Series",
-    "years": [
-      {
-        "value": "2019-present",
-        "text": "2019-Present",
-        "generations": [
-          {
-            "value": "g20",
-            "text": "G20",
-            "activations": [
-              {
-                "id": 71,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          },
-          {
-            "value": "g21",
-            "text": "G21",
-            "activations": [
-              {
-                "id": 72,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "value": "2005-2011",
-        "text": "2005-2011",
-        "generations": [
-          {
-            "value": "e90",
-            "text": "E90",
-            "activations": []
-          },
-          {
-            "value": "e91",
-            "text": "E91",
-            "activations": []
-          },
-          {
-            "value": "e92",
-            "text": "E92",
-            "activations": []
-          },
-          {
-            "value": "e93",
-            "text": "E93",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2012-2018",
-        "text": "2012-2018",
-        "generations": [
-          {
-            "value": "f30",
-            "text": "F30",
-            "activations": []
-          },
-          {
-            "value": "f31",
-            "text": "F31",
-            "activations": []
-          },
-          {
-            "value": "f34",
-            "text": "F34",
-            "activations": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "model": "x6",
-    "text": "X6",
-    "years": [
-      {
-        "value": "2014-2019",
-        "text": "2014-2019",
-        "generations": [
-          {
-            "value": "f16",
-            "text": "F16",
-            "activations": [
-              {
-                "id": 73,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "value": "2008-2014",
-        "text": "2008-2014",
-        "generations": [
-          {
-            "value": "e71",
-            "text": "E71",
-            "activations": []
-          },
-          {
-            "value": "e72",
-            "text": "E72",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2019-present",
-        "text": "2019-Present",
-        "generations": [
-          {
-            "value": "g06",
-            "text": "G06",
-            "activations": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "model": "x5",
-    "text": "X5",
-    "years": [
-      {
-        "value": "2013-2018",
-        "text": "2013-2018",
-        "generations": [
-          {
-            "value": "f15",
-            "text": "F15",
-            "activations": [
-              {
-                "id": 74,
-                "title": {
-                  "en": "NBT EVO Menu Style",
-                  "ar": "///M black theme NBT EVO",
-                  "he": "סגנון תפריט NBT EVO ///M"
-                },
-                "description": {
-                  "en": "Change the NBT EVO menu style full ///M black theme",
-                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
-                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "300",
-                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "value": "1999-2006",
-        "text": "1999-2006",
-        "generations": [
-          {
-            "value": "e53",
-            "text": "E53",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2006-2013",
-        "text": "2006-2013",
-        "generations": [
-          {
-            "value": "e70",
-            "text": "E70",
-            "activations": []
-          }
-        ]
-      },
-      {
-        "value": "2018-present",
-        "text": "2018-Present",
-        "generations": [
-          {
-            "value": "g05",
-            "text": "G05",
-            "activations": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "model": "2-active-tourer-gran-tourer",
     "text": "2 Active Tourer/Gran Tourer",
     "years": [
       {
+
         "value": "2014-2018",
         "text": "2014-2018",
         "generations": [
@@ -5586,6 +5173,7 @@
                 "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/aa1f0da516f3503047daa93a93971a58_oca_picture.jpg"
               },
+              
               {
                 "id": 193,
                 "title": {
@@ -8093,25 +7681,25 @@
                 "image_url": "https://storage.obdeleven.com/parse/6df140f31476250ce078c1843140b8a9_oca_picture.jpg"
               },
               {
-                "id": 318,
-                "title": {
-                  "ar": "عدد تأكيدات الفتح المرئية",
-                  "en": "Visual Unlock Confirmation Count",
-                  "he": "מספר אישורי פתיחה ויזואליים"
-                },
-                "description": {
-                  "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
-                  "en": "Adjust the number of light flashes for visual unlock confirmation.",
-                  "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
-                },
-                "category": {
-                  "ar": "الراحة",
-                  "en": "Convenience",
-                  "he": "נוחות"
-                },
-                "price": "60",
-                "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
-              },
+                 "id": 318,
+  "title": {
+    "ar": "عدد تأكيدات الفتح المرئية",
+    "en": "Visual Unlock Confirmation Count",
+    "he": "מספר אישורי פתיחה ויזואליים"
+  },
+  "description": {
+    "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
+    "en": "Adjust the number of light flashes for visual unlock confirmation.",
+    "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
+  },
+  "category": {
+    "ar": "الراحة",
+    "en": "Convenience",
+    "he": "נוחות"
+  },
+  "price": "60",
+  "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
+},
               {
                 "id": 319,
                 "title": {
@@ -9293,7 +8881,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/fb32e0f5594338b7972ddff611afe84f_oca_picture.jpg"
               },
               {
-                "id": 378,
+                                "id": 378,
                 "title": {
                   "ar": "خانة اختيار أضواء القيادة النهارية",
                   "en": "Daytime Running Lights Checkbox",
@@ -9923,7 +9511,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/69882440612f31f8f731603248e6b980_oca_picture.jpg"
               },
               {
-                "id": 420,
+             "id": 420,
                 "title": {
                   "ar": "سرعة مساعد الازدحام المروري كيلومتر/ساعة",
                   "en": "Traffic Jam Assistant Speed KMH",
@@ -11705,6 +11293,75 @@
                 "image_url": "https://storage.obdeleven.com/parse/a29fd63d2f5ac00386477960dd2cb340_oca_picture.jpg"
               }
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "3-series",
+    "text": "3 Series",
+    "years": [
+      {
+        "value": "2005-2011",
+        "text": "2005-2011",
+        "generations": [
+          {
+            "value": "e90",
+            "text": "E90",
+            "activations": []
+          },
+          {
+            "value": "e91",
+            "text": "E91",
+            "activations": []
+          },
+          {
+            "value": "e92",
+            "text": "E92",
+            "activations": []
+          },
+          {
+            "value": "e93",
+            "text": "E93",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2012-2018",
+        "text": "2012-2018",
+        "generations": [
+          {
+            "value": "f30",
+            "text": "F30",
+            "activations": []
+          },
+          {
+            "value": "f31",
+            "text": "F31",
+            "activations": []
+          },
+          {
+            "value": "f34",
+            "text": "F34",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2019-present",
+        "text": "2019-Present",
+        "generations": [
+          {
+            "value": "g20",
+            "text": "G20",
+            "activations": []
+          },
+          {
+            "value": "g21",
+            "text": "G21",
+            "activations": []
           }
         ]
       }
@@ -13615,6 +13272,71 @@
     ]
   },
   {
+    "model": "5-series",
+    "text": "5 Series",
+    "years": [
+      {
+        "value": "2003-2010",
+        "text": "2003-2010",
+        "generations": [
+          {
+            "value": "e60",
+            "text": "E60",
+            "activations": []
+          },
+          {
+            "value": "e61",
+            "text": "E61",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2010-2016",
+        "text": "2010-2016",
+        "generations": [
+          {
+            "value": "f10",
+            "text": "F10",
+            "activations": []
+          },
+          {
+            "value": "f11",
+            "text": "F11",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2017-2023",
+        "text": "2017-2023",
+        "generations": [
+          {
+            "value": "g30",
+            "text": "G30",
+            "activations": []
+          },
+          {
+            "value": "g31",
+            "text": "G31",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2023-present",
+        "text": "2023-Present",
+        "generations": [
+          {
+            "value": "g60",
+            "text": "G60",
+            "activations": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "model": "6-series",
     "text": "6 Series",
     "years": [
@@ -13917,6 +13639,100 @@
           {
             "value": "g02",
             "text": "G02",
+            "activations": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "x5",
+    "text": "X5",
+    "years": [
+      {
+        "value": "1999-2006",
+        "text": "1999-2006",
+        "generations": [
+          {
+            "value": "e53",
+            "text": "E53",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2006-2013",
+        "text": "2006-2013",
+        "generations": [
+          {
+            "value": "e70",
+            "text": "E70",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2013-2018",
+        "text": "2013-2018",
+        "generations": [
+          {
+            "value": "f15",
+            "text": "F15",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2018-present",
+        "text": "2018-Present",
+        "generations": [
+          {
+            "value": "g05",
+            "text": "G05",
+            "activations": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "x6",
+    "text": "X6",
+    "years": [
+      {
+        "value": "2008-2014",
+        "text": "2008-2014",
+        "generations": [
+          {
+            "value": "e71",
+            "text": "E71",
+            "activations": []
+          },
+          {
+            "value": "e72",
+            "text": "E72",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2014-2019",
+        "text": "2014-2019",
+        "generations": [
+          {
+            "value": "f16",
+            "text": "F16",
+            "activations": []
+          }
+        ]
+      },
+      {
+        "value": "2019-present",
+        "text": "2019-Present",
+        "generations": [
+          {
+            "value": "g06",
+            "text": "G06",
             "activations": []
           }
         ]
