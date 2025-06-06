@@ -1553,5 +1553,43 @@
         ]
       }
     ]
+  },
+  {
+    "model": "x5",
+    "text": "X5",
+    "years": [
+      {
+        "value": "2013-2018",
+        "text": "2013-2018",
+        "generations": [
+          {
+            "value": "f15",
+            "text": "F15",
+            "activations": [
+              {
+                "id": 74,
+                "title": {
+                  "en": "NBT EVO Menu Style",
+                  "ar": "///M black theme NBT EVO",
+                  "he": "סגנון תפריט NBT EVO ///M"
+                },
+                "description": {
+                  "en": "Change the NBT EVO menu style full ///M black theme",
+                  "ar": "تغيير نمط قائمة NBT EVO. الى ///M black theme",
+                  "he": "שינוי סגנון תפריט NBT EVO. ///M"
+                },
+                "category": {
+                  "en": "Display",
+                  "ar": "العرض",
+                  "he": "תצוגה"
+                },
+                "price": "300",
+                "image_url": "https://ecu-technologies.de/media/image/d8/04/4e/ECU-Artikel-Bilder-7.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
