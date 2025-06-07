@@ -10031,7 +10031,28 @@
           {
             "value": "f22",
             "text": "F22",
-            "activations": []
+            "activations": [
+              {
+                "id": 823,
+                "title": {
+                  "en": "Trunk Closing via Interior Button",
+                  "ar": "إغلاق الصندوق الخلفي عبر الزر الداخلي",
+                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
+                },
+                "description": {
+                  "en": "Enable closing the trunk using the interior button.",
+                  "ar": "تفعيل إمكانية إغلاق الصندوق الخلفي باستخدام الزر الموجود داخل السيارة.",
+                  "he": "הפעלת אפשרות סגירת תא המטען באמצעות הכפתור הפנימי."
+                },
+                "category": {
+                  "en": "Convenience",
+                  "ar": "الراحة",
+                  "he": "נוחות"
+                },
+                "price": "100",
+                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
+              }
+            ]
           },
           {
             "value": "f23",
