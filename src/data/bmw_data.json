@@ -1327,28 +1327,7 @@
           {
             "value": "f21",
             "text": "F21",
-            "activations": [
-              {
-                "id": 820,
-                "title": {
-                  "en": "Engine Oil Reset",
-                  "ar": "إعادة ضبط زيت المحرك",
-                  "he": "איפוס שמן מנוע"
-                },
-                "description": {
-                  "en": "",
-                  "ar": "إعادة ضبط زيت المحرك بعد الصيانه",
-                  "he": "איפוס שמן מנוע אחרי טיפול"
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": "",
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
-              }
-            ]
+            "activations": []
           }
         ]
       },
@@ -1370,60 +1349,19 @@
     "text": "2 Active Tourer/Gran Tourer",
     "years": [
       {
+
         "value": "2014-2018",
         "text": "2014-2018",
         "generations": [
           {
             "value": "f45",
             "text": "F45",
-            "activations": [
-              {
-                "id": 821,
-                "title": {
-                  "en": "Engine Oil Reset",
-                  "ar": "إعادة ضبط زيت المحرك",
-                  "he": "איפוס שמן מנוע"
-                },
-                "description": {
-                  "en": "",
-                  "ar": "إعادة ضبط زيت المحرك بعد الصيانه",
-                  "he": "איפוס שמן מנוע אחרי טיפול"
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": "",
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
-              }
-            ]
+            "activations": []
           },
           {
             "value": "f46",
             "text": "F46",
-            "activations": [
-              {
-                "id": 822,
-                "title": {
-                  "en": "Engine Oil Reset",
-                  "ar": "إعادة ضبط زيت المحرك",
-                  "he": "איפוס שמן מנוע"
-                },
-                "description": {
-                  "en": "",
-                  "ar": "إعادة ضبط زيت المحرك بعد الصيانه",
-                  "he": "איפוס שמן מנוע אחרי טיפול"
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": "",
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
-              }
-            ]
+            "activations": []
           }
         ]
       },
@@ -5235,6 +5173,7 @@
                 "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/aa1f0da516f3503047daa93a93971a58_oca_picture.jpg"
               },
+              
               {
                 "id": 193,
                 "title": {
@@ -7742,25 +7681,25 @@
                 "image_url": "https://storage.obdeleven.com/parse/6df140f31476250ce078c1843140b8a9_oca_picture.jpg"
               },
               {
-                "id": 318,
-                "title": {
-                  "ar": "عدد تأكيدات الفتح المرئية",
-                  "en": "Visual Unlock Confirmation Count",
-                  "he": "מספר אישורי פתיחה ויזואליים"
-                },
-                "description": {
-                  "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
-                  "en": "Adjust the number of light flashes for visual unlock confirmation.",
-                  "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
-                },
-                "category": {
-                  "ar": "الراحة",
-                  "en": "Convenience",
-                  "he": "נוחות"
-                },
-                "price": "60",
-                "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
-              },
+                 "id": 318,
+  "title": {
+    "ar": "عدد تأكيدات الفتح المرئية",
+    "en": "Visual Unlock Confirmation Count",
+    "he": "מספר אישורי פתיחה ויזואליים"
+  },
+  "description": {
+    "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
+    "en": "Adjust the number of light flashes for visual unlock confirmation.",
+    "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
+  },
+  "category": {
+    "ar": "الراحة",
+    "en": "Convenience",
+    "he": "נוחות"
+  },
+  "price": "60",
+  "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
+},
               {
                 "id": 319,
                 "title": {
@@ -8942,7 +8881,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/fb32e0f5594338b7972ddff611afe84f_oca_picture.jpg"
               },
               {
-                "id": 378,
+                                "id": 378,
                 "title": {
                   "ar": "خانة اختيار أضواء القيادة النهارية",
                   "en": "Daytime Running Lights Checkbox",
@@ -9572,7 +9511,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/69882440612f31f8f731603248e6b980_oca_picture.jpg"
               },
               {
-                "id": 420,
+             "id": 420,
                 "title": {
                   "ar": "سرعة مساعد الازدحام المروري كيلومتر/ساعة",
                   "en": "Traffic Jam Assistant Speed KMH",
@@ -10031,28 +9970,7 @@
           {
             "value": "f22",
             "text": "F22",
-            "activations": [
-              {
-                "id": 823,
-                "title": {
-                  "en": "Trunk Closing via Interior Button",
-                  "ar": "إغلاق الصندوق الخلفي عبر الزر الداخلي",
-                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
-                },
-                "description": {
-                  "en": "Enable closing the trunk using the interior button.",
-                  "ar": "تفعيل إمكانية إغلاق الصندوق الخلفي باستخدام الزر الموجود داخل السيارة.",
-                  "he": "הפעלת אפשרות סגירת תא המטען באמצעות הכפתור הפנימי."
-                },
-                "category": {
-                  "en": "Convenience",
-                  "ar": "الراحة",
-                  "he": "נוחות"
-                },
-                "price": "100",
-                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
-              }
-            ]
+            "activations": []
           },
           {
             "value": "f23",
@@ -11438,108 +11356,7 @@
           {
             "value": "g20",
             "text": "G20",
-            "activations": [
-              {
-                "id": 819,
-                "title": {
-                  "en": "X-View Display",
-                  "ar": "شاشة X-View",
-                  "he": "תצוגת X-View"
-                },
-                "description": {
-                  "en": "Activate X-View display in the instrument cluster (off-road information).",
-                  "ar": "تفعيل شاشة X-View في لوحة العدادات (معلومات الطرق الوعرة).",
-                  "he": "הפעלת תצוגת X-View בלוח המחוונים (מידע שטח)."
-                },
-                "category": {
-                  "en": "Display",
-                  "ar": "العرض",
-                  "he": "תצוגה"
-                },
-                "price": "140",
-                "image_url": "https://storage.obdeleven.com/parse/0140c1fab39951bd39b7df229cf96ec4_oca_picture.jpg"
-              },
-              {
-                "id": 824,
-                "title": {
-                  "en": "Trunk Closing via Interior Button",
-                  "ar": "إغلاق الصندوق الخلفي عبر الزر الداخلي",
-                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
-                },
-                "description": {
-                  "en": "Enable closing the trunk using the interior button.",
-                  "ar": "تفعيل إمكانية إغلاق الصندوق الخلفي باستخدام الزر الموجود داخل السيارة.",
-                  "he": "הפעלת אפשרות סגירת תא המטען באמצעות הכפתור הפנימי."
-                },
-                "category": {
-                  "en": "Convenience",
-                  "ar": "الراحة",
-                  "he": "נוחות"
-                },
-                "price": "100",
-                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
-              },
-              {
-                "id": 825,
-                "title": {
-                  "en": "Brake Fluid Reset",
-                  "ar": "إعادة ضبط سائل الفرامل",
-                  "he": "איפוס נוזל בלמים"
-                },
-                "description": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": "",
-                "image_url": "https://storage.obdeleven.com/parse/b54f3a14eb0d261c6fcb72bb2ca76507_oca_picture.jpg"
-              },
-              {
-                "id": 826,
-                "title": {
-                  "en": "Trunk Closing via Interior Button",
-                  "ar": "إغلاق الصندوق الخلفي عبر الزر الداخلي",
-                  "he": "סגירת תא מטען באמצעות כפתור פנימי"
-                },
-                "description": {
-                  "en": "Enable closing the trunk using the interior button.",
-                  "ar": "تفعيل إمكانية إغلاق الصندوق الخلفي باستخدام الزر الموجود داخل السيارة.",
-                  "he": "הפעלת אפשרות סגירת תא המטען באמצעות הכפתור הפנימי."
-                },
-                "category": {
-                  "en": "Convenience",
-                  "ar": "الراحة",
-                  "he": "נוחות"
-                },
-                "price": "100",
-                "image_url": "https://storage.obdeleven.com/parse/3ecd529aff7d0ab6637e6f34563cd46f_oca_picture.jpg"
-              },
-              {
-                "id": 827,
-                "title": {
-                  "en": "Front Brake Pads Reset",
-                  "ar": "إعادة ضبط وسادات الفرامل الأمامية",
-                  "he": "איפוס רפידות בלם קדמיות"
-                },
-                "description": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": "",
-                "image_url": "https://storage.obdeleven.com/parse/e404e4d551c5f55da70f2fbaa034f0ee_oca_picture.jpg"
-              }
-            ]
+            "activations": []
           },
           {
             "value": "g21",
@@ -11595,22 +11412,11 @@
               {
                 "id": 614,
                 "title": {
-                  "en": "Engine Oil Reset",
                   "ar": "إعادة ضبط زيت المحرك",
+                  "en": "Engine Oil Reset",
                   "he": "איפוס שמן מנוע"
                 },
-                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg",
-                "description": {
-                  "en": "",
-                  "ar": "إعادة ضبط زيت المحرك بعد الصيانه",
-                  "he": "איפוס שמן מנוע אחרי טיפול"
-                },
-                "category": {
-                  "en": "",
-                  "ar": "",
-                  "he": ""
-                },
-                "price": ""
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
               },
               {
                 "id": 615,
