@@ -1327,7 +1327,28 @@
           {
             "value": "f21",
             "text": "F21",
-            "activations": []
+            "activations": [
+              {
+                "id": 820,
+                "title": {
+                  "en": "Engine Oil Reset",
+                  "ar": "إعادة ضبط زيت المحرك",
+                  "he": "איפוס שמן מנוע"
+                },
+                "description": {
+                  "en": "",
+                  "ar": "إعادة ضبط زيت المحرك بعد الصيانه",
+                  "he": "איפוס שמן מנוע אחרי טיפול"
+                },
+                "category": {
+                  "en": "",
+                  "ar": "",
+                  "he": ""
+                },
+                "price": "",
+                "image_url": "https://storage.obdeleven.com/parse/a4928157214fe0311f38de63854ff1cd_oca_picture.jpg"
+              }
+            ]
           }
         ]
       },
