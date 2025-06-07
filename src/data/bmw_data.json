@@ -1349,7 +1349,6 @@
     "text": "2 Active Tourer/Gran Tourer",
     "years": [
       {
-
         "value": "2014-2018",
         "text": "2014-2018",
         "generations": [
@@ -5173,7 +5172,6 @@
                 "price": "100",
                 "image_url": "https://storage.obdeleven.com/parse/aa1f0da516f3503047daa93a93971a58_oca_picture.jpg"
               },
-              
               {
                 "id": 193,
                 "title": {
@@ -7681,25 +7679,25 @@
                 "image_url": "https://storage.obdeleven.com/parse/6df140f31476250ce078c1843140b8a9_oca_picture.jpg"
               },
               {
-                 "id": 318,
-  "title": {
-    "ar": "عدد تأكيدات الفتح المرئية",
-    "en": "Visual Unlock Confirmation Count",
-    "he": "מספר אישורי פתיחה ויזואליים"
-  },
-  "description": {
-    "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
-    "en": "Adjust the number of light flashes for visual unlock confirmation.",
-    "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
-  },
-  "category": {
-    "ar": "الراحة",
-    "en": "Convenience",
-    "he": "נוחות"
-  },
-  "price": "60",
-  "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
-},
+                "id": 318,
+                "title": {
+                  "ar": "عدد تأكيدات الفتح المرئية",
+                  "en": "Visual Unlock Confirmation Count",
+                  "he": "מספר אישורי פתיחה ויזואליים"
+                },
+                "description": {
+                  "ar": "تعديل عدد ومضات الأضواء لتأكيد الفتح المرئي.",
+                  "en": "Adjust the number of light flashes for visual unlock confirmation.",
+                  "he": "כוונון מספר הבהובים של האורות לאישור פתיחה חזותי."
+                },
+                "category": {
+                  "ar": "الراحة",
+                  "en": "Convenience",
+                  "he": "נוחות"
+                },
+                "price": "60",
+                "image_url": "https://storage.obdeleven.com/parse/c6f89f22e7f631a8c1c448fd32272911_oca_picture.jpg"
+              },
               {
                 "id": 319,
                 "title": {
@@ -8881,7 +8879,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/fb32e0f5594338b7972ddff611afe84f_oca_picture.jpg"
               },
               {
-                                "id": 378,
+                "id": 378,
                 "title": {
                   "ar": "خانة اختيار أضواء القيادة النهارية",
                   "en": "Daytime Running Lights Checkbox",
@@ -9511,7 +9509,7 @@
                 "image_url": "https://storage.obdeleven.com/parse/69882440612f31f8f731603248e6b980_oca_picture.jpg"
               },
               {
-             "id": 420,
+                "id": 420,
                 "title": {
                   "ar": "سرعة مساعد الازدحام المروري كيلومتر/ساعة",
                   "en": "Traffic Jam Assistant Speed KMH",
@@ -11356,7 +11354,28 @@
           {
             "value": "g20",
             "text": "G20",
-            "activations": []
+            "activations": [
+              {
+                "id": 819,
+                "title": {
+                  "en": "X-View Display",
+                  "ar": "شاشة X-View",
+                  "he": "תצוגת X-View"
+                },
+                "description": {
+                  "en": "Activate X-View display in the instrument cluster (off-road information).",
+                  "ar": "تفعيل شاشة X-View في لوحة العدادات (معلومات الطرق الوعرة).",
+                  "he": "הפעלת תצוגת X-View בלוח המחוונים (מידע שטח)."
+                },
+                "category": {
+                  "en": "Display",
+                  "ar": "العرض",
+                  "he": "תצוגה"
+                },
+                "price": "140",
+                "image_url": "https://storage.obdeleven.com/parse/0140c1fab39951bd39b7df229cf96ec4_oca_picture.jpg"
+              }
+            ]
           },
           {
             "value": "g21",
